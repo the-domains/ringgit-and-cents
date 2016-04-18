@@ -1,0 +1,14 @@
+layout_spectrum: 0.2311828
+typography_spectrum: 0.2544803
+color:
+  saturation: 0.2145642
+  lightness: 0.6052334
+  brandStrength: 0.5522966
+  rhythmicContrast: 0.7748913
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Ringgit and Cents
