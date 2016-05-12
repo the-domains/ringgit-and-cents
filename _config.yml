@@ -1,14 +1,26 @@
-layout_spectrum: 0.2311828
-typography_spectrum: 0.2544803
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2145642
+  brandStrength: 0.7329749
   lightness: 0.6052334
-  brandStrength: 0.5522966
-  rhythmicContrast: 0.7748913
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  rhythmicContrast: 0.7748913
+typography_spectrum: 0.2544803
+layout_spectrum: 0.2043011
 name: Ringgit and Cents
